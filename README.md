@@ -28,7 +28,7 @@ The notebook available here showcases work related to the above questions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@ni400044/should-you-find-a-internship-job-in-the-western-countries-c2d2f70988ed?sk=c50085d02e4dc59403574bc5ed3c0324).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
